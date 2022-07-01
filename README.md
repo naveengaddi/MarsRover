@@ -1,5 +1,4 @@
 ## Mars Rover
-is a courier service app which estimates the total delivery cost and delivery time of each package with an discount code (if applicable).
 
 
 
